@@ -1,0 +1,21 @@
+1. Data base is a memory which stores the data / data
+   DBMS - Manages the data
+   SQL - Query Language
+   MySQL - Popular Query language / Example of query language
+
+2. CREATE, ALTER and DROP
+3. INSERT, UPDATE and DELETE
+4. SELECT 
+5. GRANT and REVOKE
+6. COMMIT, ROLLBACK and SAVEPOINT
+7. NUMERIC - tinyint, smallint, mediumint, bigint int, double,            	float, decimal(m,n)
+   STRING - text, tinytext, mediumtext, longtext, char, varchar,  	Enum and set
+8. Primary key, foreign key, Unique, Not null, default and check
+10. Primary key :- It does not accept null values
+   Unique :- It accepts null values
+9. CREATE TABLE STUDENTS(
+	ROLLNUMBER INT PRIMARY KEY,
+	NAME VARCHAR(100) NOT NULL,
+	MARKS INT DEFAULT 0
+   );
+

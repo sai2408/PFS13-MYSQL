@@ -1,0 +1,10 @@
+1. Define differences between Data base vs DBMS vs SQL vs Mysql
+2. Explain DDL Commands
+3. Explain DML Commands
+4. Explain DQL Commands
+5. Explain DCL commands
+6. Explain TCL Commands
+7. Note all Data types in MYSQL
+8. Note and Explain Constraints in Mysql
+9. Create a table students and create three columns with the names roll number (uniquely defined should not accept null value), Name (varchar and not null) and Marks ( interger intitially defined with 0).
+10. Explain Difference between Primary Key and Unique in Mysql
